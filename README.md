@@ -1,3 +1,3 @@
 # p1
 my first repository
-author- umayer bin nasir 
+author- umayer bin nasir
