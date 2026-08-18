@@ -1,4 +1,4 @@
 # p1
 my first repository
 <br>
-Author- umayer bin nasir
+Author- Umayer Bin Nasir
